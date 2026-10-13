@@ -1,1 +1,15 @@
-alo brasil
+RELATÓRIO CONFIDENCIAL - SIMULAÇÃO DE CIBERSEGURANÇA
+=====================================================
+Data: 13/10/2026
+Classificação: Confidencial / Uso Interno
+Projeto: Desafio de Cibersegurança - DIO
+
+Este arquivo simula um documento corporativo com dados sensíveis
+utilizado para validar o processo de cifragem e recuperação via AES-CTR.
+
+Status do Sistema:
+- Servidor de Arquivos: Ativo
+- Integridade de Dados: Monitorada
+- Política de Backup 3-2-1: Configurada
+
+[Fim do documento de teste]

@@ -66,7 +66,7 @@ pip install -r requirements.txt
 Verifique o conteúdo do arquivo `teste.txt`:
 ```bash
 cat teste.txt
-# Saída esperada: alo brasil
+# Exibe o relatório de teste confidencial da simulação
 ```
 
 #### Passo B: Executar a Cifragem
