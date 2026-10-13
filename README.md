@@ -1,10 +1,10 @@
-# 🛡️ Desafio de Cibersegurança: Simulação Didática de Ransomware em Python
+# Desafio de Cibersegurança: Simulação Didática de Ransomware em Python
 
 > **Aviso Legal:** Este projeto foi desenvolvido **estritamente para fins educacionais e de pesquisa em segurança da informação**, como parte do Bootcamp de Cibersegurança da **DIO (Digital Innovation One)**. O objetivo é compreender o mecanismo básico de cifragem simétrica utilizado por malwares do tipo ransomware para fins de conscientização e desenvolvimento de mecanismos de defesa. Qualquer uso malicioso ou não autorizado deste conhecimento é de inteira responsabilidade do executor.
 
 ---
 
-## 📌 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 Ransomwares são ameaças cibernéticas que bloqueiam o acesso a dados de uma vítima — geralmente criptografando arquivos — e exigem o pagamento de um resgate para fornecer a chave de recuperação.
 
@@ -14,7 +14,7 @@ Neste laboratório prático, implementamos uma versão simplificada e controlada
 
 ---
 
-## 📁 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 ```text
 .
@@ -28,7 +28,7 @@ Neste laboratório prático, implementamos uma versão simplificada e controlada
 
 ---
 
-## ⚙️ Detalhamento Técnico
+## Detalhamento Técnico
 
 ### Algoritmo de Criptografia
 - **AES (Advanced Encryption Standard)**: Cifra simétrica de bloco amplamente adotada pela indústria.
@@ -38,7 +38,7 @@ Neste laboratório prático, implementamos uma versão simplificada e controlada
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Pré-requisitos
 Certifique-se de possuir o **Python 3.8+** instalado em seu sistema operacional.
@@ -89,7 +89,7 @@ python3 decrypter.py
 
 ---
 
-## 🔒 Boas Práticas de Defesa contra Ransomware
+## Boas Práticas de Defesa contra Ransomware
 
 Na cibersegurança defensiva, a compreensão dos vetores de ataque permite estruturar melhores controles de segurança:
 
@@ -106,7 +106,7 @@ Na cibersegurança defensiva, a compreensão dos vetores de ataque permite estru
 
 ---
 
-## 📚 Referências
+## Referências
 
 - [Repositório Base - Digital Innovation One](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
 - [Documentação Oficial do PyAES](https://pypi.org/project/pyaes/)
